@@ -17,6 +17,6 @@ https://digitalcorpora.s3.amazonaws.com/s3_browser.html#corpora/scenarios/2018-l
 Tools used: Autopsy
 
 Other Contributors:
-Andrew Bentley
-Haroon Jemal
+- Andrew Bentley
+- Haroon Jemal
 
