@@ -9,10 +9,10 @@ How evidence was maintained?
 - File paths
 
 The Lone Wolf Scenario: 
-https://digitalcorpora.org/corpora/scenarios/2018-lone-wolf-scenario/
+- https://digitalcorpora.org/corpora/scenarios/2018-lone-wolf-scenario/
 
-Evidence Files
-https://digitalcorpora.s3.amazonaws.com/s3_browser.html#corpora/scenarios/2018-lonewolf/
+Evidence Files:
+- https://digitalcorpora.s3.amazonaws.com/s3_browser.html#corpora/scenarios/2018-lonewolf/
 
 Tools used: Autopsy
 
